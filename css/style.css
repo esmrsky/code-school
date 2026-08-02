@@ -516,3 +516,6 @@ details.deeper .deeper-body {
 }
 
 .hidden { display: none !important; }
+
+/* reading comfort: balance display text */
+h1, h2, h3 { text-wrap: balance; }
